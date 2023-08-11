@@ -1,10 +1,7 @@
 # Pixels
-This is Jordanne's gallery of pixel art. 
-I'm having fun. Say no to anti-aliasing. 
 
-Built with Pug and SCSS. 
-
-Built with Pug and SCSS.
+This is Jordanne's gallery of pixel art.
+I'm having fun. Say no to anti-aliasing.
 
 Big shout-out to `image-rendering: crisp-edges`
 
